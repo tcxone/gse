@@ -6,7 +6,7 @@ Easy-to-use go network framework
 
 This is an example. I believe you will understand how to use it after reading it.
 
-```
+```go
 package main
 
 import (
